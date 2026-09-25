@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://whitehorsetaxi.com/sitemap.xml
+Sitemap: https://UPPER-KEBAB.github.io/whitehorsetaxi.com/sitemap.xml
